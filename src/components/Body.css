@@ -1,0 +1,21 @@
+h1 {
+    font-size: 80px;
+    font-weight: 620;
+}
+
+.start {
+    padding: 16px 30px 16px 30px;
+    border-radius: 7px;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.title {
+    width: 70%;
+    line-height: 80px;
+    margin-bottom: 20px;
+}
+
+.body img {
+    width: 30%;
+}

@@ -1,34 +1,13 @@
 button {
-  background-color: #0052FF;
-  color: white;
-  border-style: solid;
-  padding: 12px 30px 12px 30px;
-  border-radius: 50px;
-  font-size: 12px;
+    background-color: #0052FF;
+    color: white;
+    border-style: none;
+}
+
+.page {
+    padding-left: 70px;
 }
 
 li {
-  list-style: none; 
-  padding: 12px;
-  padding-left: 20px;
-  padding-right: 20px;
-  color: #9A9EA6;
-}
-
-.navlist {
-  width: 92%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.navlist-left {
-  display: flex;
-  align-items: center;
-}
-
-.logo {
-  font-size: 20px;
-  font-weight: bold;
-  color: black;
+    list-style: none; 
 }
