@@ -19,3 +19,42 @@ h1 {
 .body img {
     width: 30%;
 }
+
+.imgs {
+    display: flex;
+}
+
+.button-overlay {
+    position: relative;
+    display: inline-block;
+    width: 30%;
+}
+
+.button-overlay img {
+    width: 100%;
+}
+.button-overlay div {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #0052FF;
+}
+
+.button-overlay p{
+    color: white;
+    padding-left: 10%;
+    font-weight: 500;
+}
+
+
+.overlay {
+    padding: 6% 0px 6% 0px;
+    width: 100%;
+    text-align: left;
+    transition: background-color 0.5s;
+}
+
+.overlay:hover {
+    background: mediumblue;
+    cursor: pointer;
+}

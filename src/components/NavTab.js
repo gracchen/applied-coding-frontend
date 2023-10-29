@@ -7,10 +7,10 @@ const NavTab = () => {
       <ul className="navlist"> 
         <div className="navlist-left">
           <li className="logo">Herox</li>
-          <li>Services</li> 
-          <li>Portfolio</li> 
-          <li>Contact Us</li> 
-          <li>About Us</li> 
+          <li><a href="#">Services</a></li> 
+          <li><a href="#">Portfolio</a></li> 
+          <li><a href="#">Contact Us</a></li> 
+          <li><a href="#">About Us</a></li> 
         </div>
         <li><button>Register / Login</button></li>
       </ul> 
